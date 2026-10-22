@@ -32,7 +32,7 @@ python -m venv .venv
 # macOS / Linux:
 source .venv/bin/activate
 
-pip install git+https://github.com/aspose-cloud/aspose-storage-cloud-python-mcp.git@v1.0.5 git+https://github.com/aspose-cloud/aspose-pdf-cloud-python-mcp.git@v1.1.3
+pip install git+https://github.com/aspose-cloud/aspose-storage-cloud-python-mcp.git@v1.0.5 git+https://github.com/aspose-cloud/aspose-pdf-cloud-python-mcp.git@v1.1.4
 ```
 
 This installs the `aspose-pdf-mcp` command into your virtual environment. The first package is the shared file-tool library (upload, download, list, delete) that every Aspose Cloud MCP server depends on; it is not on PyPI, so it is installed from GitHub in the same command.
